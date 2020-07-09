@@ -1,3 +1,6 @@
+<p align="center">
+<b>⚠️ Attention: This repository has been moved to https://github.com/felangel/bloc and is now read-only!</b>
+</p>
 <p align="center"><img src="https://raw.githubusercontent.com/felangel/cubit/master/assets/cubit_full.png" height="100" alt="Cubit"></p>
 
 <p align="center">
